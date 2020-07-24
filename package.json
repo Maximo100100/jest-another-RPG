@@ -1,0 +1,25 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "Do you get the pun?",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maximo100100/jest-another-RPG.git"
+  },
+  "keywords": [
+    "School"
+  ],
+  "author": "Maximo Bahamondes",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Maximo100100/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/Maximo100100/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
